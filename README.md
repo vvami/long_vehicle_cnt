@@ -42,7 +42,7 @@ ros2 run long_vehicle_cnt controller
 
 ```
 
-## Results
+## Results  
 
 As a test trial, the speed reference is chosen as 20 m/s.
 
