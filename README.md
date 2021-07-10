@@ -53,3 +53,5 @@ As a test trial, the speed reference is chosen as 20 m/s.
 ![cnt](img/cnt.png)
 
 ## Comments
+
+As shown in the third plot, the availabe range for the control signal (0-1) is not fully taken advantage of which means that the PID parameters could be increased further. However, increasing the PID paramters introduces undesirable overshoot and undershoot in the speed response of the system.
